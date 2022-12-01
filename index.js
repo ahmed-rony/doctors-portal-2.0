@@ -23,7 +23,7 @@ app.use(fileupload());
 
 
 app.get('/', (req, res) =>{
-    res.send('hello John! John..hello!')
+    res.send('doctors portal ..')
 })
 
 // ==========================================
